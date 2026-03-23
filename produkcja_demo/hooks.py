@@ -83,7 +83,7 @@ app_license = "mit"
 # ------------
 
 # before_install = "produkcja_demo.install.before_install"
-# after_install = "produkcja_demo.install.after_install"
+after_install = "produkcja_demo.setup.install.after_install"
 
 # Uninstallation
 # ------------
